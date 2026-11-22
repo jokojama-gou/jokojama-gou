@@ -1,7 +1,7 @@
 # Go Yokoyama (横山 豪)
 
 慶應義塾大学 SFC 在籍。身近な不便を Web アプリ・ツールにして形にすることが好きです。
-フロントエンド開発 (HTML/JavaScript/React) を中心に、Python での自動化、3D / AR の Web 表現に取り組んでいます。
+フロントエンド開発 (HTML / JavaScript / React) を中心に、Python によるデータ処理・BLE/OSC デバイス連携、3D / AR の Web 表現に取り組んでいます。
 
 ## Skills
 
@@ -21,8 +21,10 @@
 | [lectures-map-hosting](https://github.com/jokojama-gou/lectures-map-hosting) | SFC の講義を教室マップ上で閲覧する Web クライアント | React 19, Vite |
 | [Syllabus-Map](https://github.com/jokojama-gou/Syllabus-Map) | シラバス CSV と教室 SVG から教室利用状況マップ画像を生成 | Python |
 | [u25-award](https://github.com/jokojama-gou/u25-award) | U25 AI×3D PERSPECTIVE AWARD 2026 の LP | HTML, Tailwind CSS, GSAP |
-| [trash-pages](https://github.com/jokojama-gou/trash-pages) | SFC のゴミ箱の位置を現在地から探せる PWA | JavaScript, PWA |
-| [kosmos-quick-search](https://github.com/jokojama-gou/kosmos-quick-search) | Amazon の商品を慶應図書館蔵書から検索する Chrome 拡張 | JavaScript, Chrome Extension |
+| [trash-pages](https://github.com/jokojama-gou/trash-pages) | SFC のゴミ箱の位置を現在地から探せる PWA | JavaScript, Leaflet, PWA |
+| [amazon-kosmos-checker](https://github.com/jokojama-gou/amazon-kosmos-checker) | Amazon の商品を慶應図書館蔵書から検索する Chrome 拡張 | JavaScript, Chrome Extension |
+| [super-sober-shamanism-group4](https://github.com/jokojama-gou/super-sober-shamanism-group4) | BLE 心拍センサーの UDP/OSC 集約と PyQt5 リアルタイム可視化 | Python, Bleak, PyQt5, OpenCV, OSC |
+| [image-to-3d](https://github.com/jokojama-gou/image-to-3d) | 透過 PNG から Marching Cubes 法で STL 3D メッシュを生成 | Python, NumPy, scikit-image, Trimesh |
 
 ## Contact
 
